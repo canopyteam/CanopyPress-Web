@@ -1,4 +1,4 @@
-CanopyPress-Web
+Canopy Assets for the Web
 ===============
 
-Press resources for Canopy.co
+Please direct questions about usage to press@canopy.co
